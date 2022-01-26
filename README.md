@@ -1,16 +1,14 @@
-### Hi there 👋
+#### Design and Develop
+![Design and Develop](https://c4.wallpaperflare.com/wallpaper/792/460/915/1920x1080-px-code-coding-programming-simple-background-anime-ah-my-goddess-hd-art-wallpaper-preview.jpg)
 
-<!--
-**rbcuellar98/rbcuellar98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in Design UI,UX and Development. Enjoy learning languages and frameworks. PHP gave me PTSD
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning React 
+- 👯 I’m looking to collaborate on Front-End 
+
+
+
+
