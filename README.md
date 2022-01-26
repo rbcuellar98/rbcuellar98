@@ -9,6 +9,6 @@ Skills: REACT / JS / HTML / CSS
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on Front-End 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbcuellar98)](https://github.com/anuraghazra/github-readme-stats)
 
 
