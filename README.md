@@ -3,6 +3,10 @@
 
 Interested in Design UI,UX and Development. Enjoy learning languages and frameworks. PHP gave me PTSD
 
+## Skills and Experience
+* 💻 HTML, CSS, JS
+* ⚛️ React
+
 Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
