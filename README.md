@@ -1,7 +1,7 @@
 #### Design and Develop
 ![Design and Develop](https://c4.wallpaperflare.com/wallpaper/792/460/915/1920x1080-px-code-coding-programming-simple-background-anime-ah-my-goddess-hd-art-wallpaper-preview.jpg)
 
-Interested in Design UI,UX and Development. Enjoy learning languages and frameworks. PHP gave me PTSD
+Interested in Design UI,UX and Development. Enjoy learning languages and frameworks. 
 
 ## Skills and Experience
 * 💻 HTML, CSS, JS
