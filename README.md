@@ -9,7 +9,7 @@ Interested in Design UI,UX and Development. Enjoy learning languages and framewo
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently a student. 
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on Front-End 
 
