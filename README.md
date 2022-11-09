@@ -1,6 +1,3 @@
-<h1 align="left">Hi 👋, I'm Rolando</h1>
-<h3 align="left">A passionate frontend developer from Canada.</h3>
-
 Interested in Design UI,UX and Development. Enjoy learning languages and frameworks. 
 
 #### Design and Develop
