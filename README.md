@@ -1,14 +1,7 @@
-Interested in Design UI,UX and Development. Enjoy learning languages and frameworks. 
-
-#### Design and Develop
-![Design and Develop](https://c4.wallpaperflare.com/wallpaper/792/460/915/1920x1080-px-code-coding-programming-simple-background-anime-ah-my-goddess-hd-art-wallpaper-preview.jpg)
-
-
-
 
 # 💫 About Me:
 I have developed a passion for computer, troubleshooting and creating solutions to help individuals.
-
+Interested in Design UI,UX and Development. Enjoy learning languages and frameworks. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cuellarrolando/) 
